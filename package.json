@@ -20,7 +20,7 @@
   "author": "Azer Koçulu <azer@kodfabrik.com>",
   "license": "BSD",
   "dependencies": {
-    "dom-select": "0.0.x",
-    "new-element": "0.0.x"
+    "dom-select": "thadclay/dom-select",
+    "new-element": "thadclay/new-element"
   }
 }
